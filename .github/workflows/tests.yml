@@ -1,6 +1,4 @@
-name: Automatisation des tests
-on: push
-jobs:name: Automatisation des tests et déploiement
+name: Automatisation des tests et déploiement
 on: push
 jobs:
   Compilation:
